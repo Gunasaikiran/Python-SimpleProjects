@@ -8,7 +8,7 @@ Python basic
 
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/screenshot%2001.png" >
-  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/website%20screen%20shots.png" >
+  <img src="https://github.com/Gunasaikiran/Python-SimpleProjects/blob/main/calculator%20output.png" >
   
 </p>
 

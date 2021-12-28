@@ -7,7 +7,7 @@ Technologies Used
 Python basic
 
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/screenshot%2001.png" >
+  <img src="https://github.com/Gunasaikiran/Python-SimpleProjects/blob/main/calculator%20output%20.2.png" >
   <img src="https://github.com/Gunasaikiran/Python-SimpleProjects/blob/main/calculator%20output.png" >
   
 </p>

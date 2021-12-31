@@ -7,6 +7,7 @@ Technologies Used
 Python basic
 
 <p align="center">
+  <p>1)Simple Calculator</p>
   <img src="https://github.com/Gunasaikiran/Python-SimpleProjects/blob/main/calculator%20output%20.2.png" >
   <img src="https://github.com/Gunasaikiran/Python-SimpleProjects/blob/main/calculator%20output.png" >
   
